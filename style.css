@@ -1,0 +1,49 @@
+h1{
+    margin-left: 750px;
+    display: inline;
+}
+ol,li,a{
+    display: inline-block;
+}
+
+li,a{
+    margin-left: 20px;
+    text-decoration: none;
+}
+ol{
+    margin-left: 25%;
+}
+.about{
+    display: inline;
+}
+#aboutid{
+
+    margin-left: 100px;
+}
+.color{
+    padding-bottom: 0px;
+    border-radius: 0px;
+    background-color: cornflowerblue;
+    position: sticky;
+    top:10px;
+}
+li:hover,a:hover{
+    color: rgb(182, 3, 27);
+}
+#indexnav{
+    margin-top: 46px;
+    margin-left: 0px;
+}
+#aboutid{
+    margin-left: 840px;
+}
+#indexpara{
+    text-align: center;
+    color: hotpink;
+}
+.image,#peace1{
+    display: inline;
+    position: relative;
+    width: 30%;
+    left: 30%;
+}
